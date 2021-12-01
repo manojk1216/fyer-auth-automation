@@ -1,1 +1,1 @@
-# fyer-auth-automation
+# fyers-auth-automation
